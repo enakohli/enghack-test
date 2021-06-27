@@ -1,2 +1,2 @@
 # enghack-test
-Learning how to use git from the enghack git tutorial
+Worked with Shaan Kohli in EngHack 2021 to create a health application. First created a python application, then a Figma mockup and ended with a website using HTMl, CSS, and JS.
